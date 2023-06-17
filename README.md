@@ -1,5 +1,5 @@
 # Scraping_Details_of_8000_Companies
-The project involved scraping details of 8000+ companies listed on a website. The goal was to retrieve essential data such as names, addresses, city, country, and contact details for each company
+**Project Requirement:** The project involved scraping details of 8000+ companies listed on a website. The goal was to retrieve essential data such as names, addresses, city, country, and contact details for each company
 
 **Challenge:**
 The challenge was to interact with the website by entering product names one by one in the search bar to retrieve the list of companies.Each company had to be clicked individually, opening a new window (with unique URL) where the desired company information was available

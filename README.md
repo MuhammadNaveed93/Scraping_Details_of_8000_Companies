@@ -2,8 +2,7 @@
 The project involved scraping details of 8000+ companies listed on a website. The goal was to retrieve essential data such as names, addresses, city, country, and contact details for each company
 
 Challenge:
-•	The challenge was to interact with the website by entering product names one by one in the search bar to retrieve the list of companies.
-•	Each company had to be clicked individually, opening a new window (with unique URL) where the desired company information was available
+The challenge was to interact with the website by entering product names one by one in the search bar to retrieve the list of companies.Each company had to be clicked individually, opening a new window (with unique URL) where the desired company information was available
 
 Project Solution:
 To overcome the challenge, I utilized both Selenium and Scrapy for the project. With Selenium, first I extracted the product lists and performed actions such as entering each product name one by one and clicking the search button to display associated companies. Subsequently, scraped URLs for each company. 
